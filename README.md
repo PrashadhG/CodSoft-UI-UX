@@ -25,7 +25,7 @@ In Task 1, I designed a seamless signup flow for a mobile application. The goal 
   The main screen users see after signing up or signing in, providing access to the app's features.
 
 ### Screenshot
-![Signup Flow](path/to/screenshot-task1.png)
+![Signup Flow](readme-Images/Task-1.png)
 
 ---
 
@@ -40,7 +40,7 @@ Task 2 involved creating a visually appealing email template for a food festival
 - **Responsive Layout**: Ensures the template looks great on all devices.
 
 ### Screenshot
-![Food Festival Newsletter](path/to/screenshot-task2.png)
+![Food Festival Newsletter](readme-Images/Task-2.png)
 
 ---
 
@@ -63,7 +63,7 @@ For Task 3, I designed a restaurant menu website with a focus on ease of use and
   Shows the selected items, total bill, and allows users to add extra items before proceeding to checkout.
 
 ### Screenshot
-![Restaurant Menu Website](path/to/screenshot-task3.png)
+![Restaurant Menu Website](readme-Images/Task3.png)
 
 ---
 
